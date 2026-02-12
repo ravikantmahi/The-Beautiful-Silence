@@ -3,7 +3,7 @@
 > *"Some stories aren't written on paper, they are kept hidden in the heart..."*
 
 A cinematic, interactive 3D web experience that tells a story of unspoken love through a digital diary. Built with **HTML5, CSS3 (3D Transforms), and Three.js**.
-![Project Preview]()
+![Project Preview](https://raw.githubusercontent.com/ravikantmahi/The-Beautiful-Silence/refs/heads/main/Screenshot%202026-02-12%20231912.png)
 
 ## 🌟 Features
 
