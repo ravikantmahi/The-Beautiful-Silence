@@ -14,9 +14,8 @@ A cinematic, interactive 3D web experience that tells a story of unspoken love t
     * **Mobile:** Adapts to a single-page view with custom "Next/Prev" touch controls for easy reading.
 * **✍️ Personal Touch:** Includes a custom narrative "The Beautiful Silence," signed by the author, **Ravi Kant**.
 
-## 🚀 Live Demo
-*(You can add your GitHub Pages link here after uploading)*
-[View Live Demo](#)
+## 🔗 Live Demo
+[View Live Demo](https://ravikantmahi.github.io/The-Beautiful-Silence/)
 
 ## 🛠️ Technologies Used
 
